@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "groups": {
+    "models": {
+      "name": "Models",
+      "order": 10
+    },
+    "share": {
+      "name": "Share",
+      "order": 20
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/models/sustainability-hub.glb": {
+      "path": "/manus-storage/game/sha256/e6f4aa03d138859de9617b54f1efe4be1954b388c293862ae1b361bc2973aaaa.glb",
+      "sha256": "sha256:e6f4aa03d138859de9617b54f1efe4be1954b388c293862ae1b361bc2973aaaa",
+      "size": 1339992,
+      "assetType": "model",
+      "groupId": "models"
+    },
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/d196afba8d79900ae81abfb6cef9c291132964bbd7ddd63264ee1e69c85f5f1f.png",
+      "sha256": "sha256:d196afba8d79900ae81abfb6cef9c291132964bbd7ddd63264ee1e69c85f5f1f",
+      "size": 1264,
+      "assetType": "image",
+      "groupId": "share"
+    },
+    "assets/share/og.png": {
+      "path": "/manus-storage/game/sha256/f9fb712539681bbcdca60dfa9645f4f03ced33de5553326e1922de4befdee0b6.png",
+      "sha256": "sha256:f9fb712539681bbcdca60dfa9645f4f03ced33de5553326e1922de4befdee0b6",
+      "size": 7005096,
+      "assetType": "image",
+      "groupId": "share"
+    }
+  }
+}
